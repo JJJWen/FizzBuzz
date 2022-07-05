@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "prompt-sync": "^4.2.0",
+    "readline-sync": "^1.4.10"
+  },
+  "name": "fizzbuzz",
+  "version": "1.0.0",
+  "main": "FizzBuzzin1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JJJWen/FizzBuzz.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JJJWen/FizzBuzz/issues"
+  },
+  "homepage": "https://github.com/JJJWen/FizzBuzz#readme",
+  "description": ""
+}
